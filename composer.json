@@ -1,16 +1,15 @@
 {
-  "name": "arrilot/bitrix-hermitage",
+  "name": "Alxbron/bitrix-hermitage",
   "license": "MIT",
   "keywords": [
     "bitrix"
   ],
   "authors": [
     {
-      "name": "Nekrasov Ilya",
-      "email": "nekrasov.ilya90@gmail.com"
+      "name": "Alxbron"
     }
   ],
-  "homepage": "https://github.com/arrilot/bitrix-hermitage",
+  "homepage": "https://github.com/Alxbron/bitrix-hermitage",
   "require": {
     "php": ">=5.4.0"
   },
